@@ -1,4 +1,4 @@
-package ;
+package gameover;
 
 import flixel.FlxG;
 import flixel.FlxState;

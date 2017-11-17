@@ -1,4 +1,4 @@
-package;
+package play;
 
 import flixel.addons.editors.tiled.TiledMap;
 import flixel.addons.editors.tiled.TiledTileLayer;
@@ -6,6 +6,7 @@ import flixel.FlxG;
 import flixel.FlxState;
 import flixel.group.FlxGroup;
 import flixel.tile.FlxTilemap;
+import gameover.GameOverState;
 
 class PlayState extends FlxState {
 
@@ -46,7 +47,7 @@ class PlayState extends FlxState {
         FlxG.collide(map, bricks, function(_, brick: Brick) {
             brick.immovable = true;
         });
-        FlxG.collide(bricks, bricks, function(b1: Brick ,b2: Brick) {
+        FlxG.collide(bricks, bricks, function(b1: Brick, b2: Brick) {
             b1.immovable = true;
             b2.immovable = true;
 

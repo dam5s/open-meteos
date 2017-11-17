@@ -1,7 +1,7 @@
-package ;
+package play;
 
-import flixel.util.FlxColor;
 import flixel.FlxSprite;
+import flixel.util.FlxColor;
 
 class Brick extends FlxSprite {
 

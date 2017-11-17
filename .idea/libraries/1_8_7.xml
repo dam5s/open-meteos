@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="1,8,7" type="Haxe">
+    <CLASSES>
+      <root url="file://$USER_HOME$/dev/haxe/lib/actuate/1,8,7" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/box2d/1,2,3" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-addons/2,5,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-demos/2,4,2" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-templates/2,4,4" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-ui/2,2,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel/4,3,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/hxcpp/3,4,188" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/layout/1,2,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime-samples/4,0,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime/2,9,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime/5,8,2" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl-samples/6,0,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl/3,6,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/dev/haxe/lib/actuate/1,8,7" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/box2d/1,2,3" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-addons/2,5,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-demos/2,4,2" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-templates/2,4,4" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel-ui/2,2,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/flixel/4,3,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/hxcpp/3,4,188" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/layout/1,2,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime-samples/4,0,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime/2,9,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/lime/5,8,2" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl-samples/6,0,0" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl/3,6,1" />
+      <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0" />
+    </SOURCES>
+  </library>
+</component>

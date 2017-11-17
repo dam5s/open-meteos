@@ -10,10 +10,10 @@ import flixel.tile.FlxTilemap;
 class PlayState extends FlxState {
 
     var map = new FlxTilemap();
-    var columns: Int;
     var bricks = new FlxGroup();
+    var columns: Int;
     var timeSinceLastBrick = 0.0;
-    var brickFrequency = 0.5;
+    var brickFrequency = 0.2;
     var gameOver = false;
 
     override public function create(): Void {
@@ -35,6 +35,7 @@ class PlayState extends FlxState {
 
     override public function update(elapsed: Float): Void {
         if (gameOver) {
+            FlxG.switchState(new GameOverState());
             return;
         }
 
@@ -42,7 +43,7 @@ class PlayState extends FlxState {
 
         addBrickIfNeeded(elapsed);
 
-        FlxG.collide(map, bricks, function(_, brick) {
+        FlxG.collide(map, bricks, function(_, brick: Brick) {
             brick.immovable = true;
         });
         FlxG.collide(bricks, bricks, function(b1: Brick ,b2: Brick) {

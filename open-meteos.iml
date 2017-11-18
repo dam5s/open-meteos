@@ -16,17 +16,6 @@
     <orderEntry type="jdk" jdkName="Haxe 3.4.4" jdkType="Haxe toolkit" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module-library">
-      <library name="haxelib|/home/dam5s/dev/haxe/lib/openfl/6,5,0">
-        <CLASSES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
       <library name="haxelib|/home/dam5s/dev/haxe/lib/flixel/4,3,0">
         <CLASSES>
           <root url="file://$USER_HOME$/dev/haxe/lib/flixel/4,3,0" />
@@ -59,50 +48,30 @@
         </SOURCES>
       </library>
     </orderEntry>
-    <orderEntry type="module-library">
-      <library name="haxelib|/home/dam5s/dev/haxe/lib/lime/5,8,2">
-        <CLASSES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/lime/5,8,2" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/lime/5,8,2" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="haxelib|/home/dam5s/dev/haxe/lib/openfl/6,5,0/externs/core/flash">
-        <CLASSES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/core/flash" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/core/flash" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="haxelib|/home/dam5s/dev/haxe/lib/openfl/6,5,0/externs/core/openfl">
-        <CLASSES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/core/openfl" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/core/openfl" />
-        </SOURCES>
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library name="haxelib|/home/dam5s/dev/haxe/lib/openfl/6,5,0/externs/extras">
-        <CLASSES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/extras" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/6,5,0/externs/extras" />
-        </SOURCES>
-      </library>
-    </orderEntry>
     <orderEntry type="library" name="1,8,7" level="project" />
+    <orderEntry type="module-library">
+      <library name="haxelib|/home/dam5s/dev/haxe/lib/flixel-addons/2,5,0">
+        <CLASSES>
+          <root url="file://$USER_HOME$/dev/haxe/lib/flixel-addons/2,5,0" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/dev/haxe/lib/flixel-addons/2,5,0" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="haxelib|/home/dam5s/dev/haxe/lib/openfl/3,6,1/extern">
+        <CLASSES>
+          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/3,6,1/extern" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/dev/haxe/lib/openfl/3,6,1/extern" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="2,5,0" level="application" />
+    <orderEntry type="library" name="haxe" level="application" />
   </component>
 </module>

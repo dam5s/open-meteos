@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/meteos.iml" filepath="$PROJECT_DIR$/meteos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/open-meteos.iml" filepath="$PROJECT_DIR$/open-meteos.iml" />
     </modules>
   </component>
 </project>
